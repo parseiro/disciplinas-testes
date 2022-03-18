@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TrianguloTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="disciplinas-testes" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.vilelapinheiro.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="azul-11 (2)" />
+    <option name="PACKAGE_NAME" value="com.vilelapinheiro" />
+    <option name="MAIN_CLASS_NAME" value="com.vilelapinheiro.TrianguloTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
